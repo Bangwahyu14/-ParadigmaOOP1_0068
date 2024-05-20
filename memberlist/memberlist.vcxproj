@@ -130,6 +130,7 @@
     <ClCompile Include="agregasi.cpp" />
     <ClCompile Include="Anak.h.cpp" />
     <ClCompile Include="FileName.cpp" />
+    <ClCompile Include="mainM.cpp" />
     <ClCompile Include="memberlist.cpp" />
   </ItemGroup>
   <ItemGroup>

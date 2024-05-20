@@ -27,6 +27,9 @@
     <ClCompile Include="agregasi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="mainM.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="anak.h">
