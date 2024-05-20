@@ -12,6 +12,7 @@ public:
 		cout << name << "hidup\n";
 	}
 	~manusia() {
-		cout << name << ""
+		cout << name << "mati\n";
 	}
 };
+#endif
