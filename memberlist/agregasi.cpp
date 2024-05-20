@@ -19,4 +19,6 @@ int main() {
 
 	varIbu->cetakAnak();
 	varIbu2->cetakAnak();
+
+	delete varibu;
 }
