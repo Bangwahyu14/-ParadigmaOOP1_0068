@@ -9,5 +9,9 @@ private:
 	float nilai;
 
 public:
-	mahasiswa(int pID, string pNama, float)
+	mahasiswa(int pId, string pNama, float pNilai) :id(pId), nama(pNama), nilai(pNilai)
+	{
+
+	}
+
 };
