@@ -17,7 +17,7 @@ public:
 
 };
 
-void ibu::tambahAnak(abak* pAnak) {
+void ibu::tambahAnak(anak* pAnak) {
 	daftar_anak.push_back(pAnak);
 }
 void ibu::cetakAnak() {
