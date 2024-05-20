@@ -3,5 +3,6 @@
 
 class anak {
 public:
+	string nama;
 
 };
