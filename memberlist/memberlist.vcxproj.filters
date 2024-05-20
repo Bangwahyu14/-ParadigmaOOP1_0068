@@ -30,6 +30,9 @@
     <ClCompile Include="mainM.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Asosiasi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="anak.h">

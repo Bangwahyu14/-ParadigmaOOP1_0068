@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="agregasi.cpp" />
     <ClCompile Include="Anak.h.cpp" />
+    <ClCompile Include="Asosiasi.cpp" />
     <ClCompile Include="FileName.cpp" />
     <ClCompile Include="mainM.cpp" />
     <ClCompile Include="memberlist.cpp" />
