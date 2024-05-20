@@ -6,5 +6,5 @@ using namespace std;
 #include "ibu.h"
 
 int main() {
-
+	ibu* varIbu = new ibu("dini")
 }
