@@ -21,4 +21,5 @@ int main() {
 	varIbu2->cetakAnak();
 
 	delete varibu;
+	delete varibu2;
 }
