@@ -12,4 +12,5 @@ public:
 	~ibu() {
 		cout << "ibu \"" << nama << "\" tidak ada\n";
 	}
+	void tambahAnak(anak*);
 };
