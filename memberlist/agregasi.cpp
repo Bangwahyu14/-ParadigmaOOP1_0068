@@ -13,4 +13,5 @@ int main() {
 	anak* varAnak3 = new anak("Dewi");
 
 	varIbu->tambahAnak(varAnak1);
+	varIbu->tambahAnak(varAnak2);
 }
