@@ -23,4 +23,5 @@ int main() {
 	delete varibu;
 	delete varibu2;
 	delete varanak1;
+	delete varanak2;
 }
