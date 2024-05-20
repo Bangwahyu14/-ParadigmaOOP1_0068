@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
 class mahasiswa {
@@ -8,5 +9,5 @@ private:
 	float nilai;
 
 public:
-
+	mahasiswa(int pID, string pNama, float)
 };
