@@ -5,5 +5,7 @@ using namespace std;
 
 class jantung {
 public:
+	jantung() {
 
+	}
 };
